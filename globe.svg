@@ -1,0 +1,17 @@
+export interface StoryMetrics {
+  [key: string]: string;
+}
+
+export interface Story {
+  id: string;
+  company: string;
+  country: string;
+  industry: string;
+  title: string;
+  summary: string;
+  impact: string;
+  metrics: StoryMetrics;
+  tags: string[];
+  year: number;
+  logoInitial: string;
+}

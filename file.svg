@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "company": "Morgan Stanley",
+    "country": "USA",
+    "industry": "Finance",
+    "title": "AI-Powered Wealth Management Assistant",
+    "summary": "Morgan Stanley deployed an OpenAI-based assistant to over 16,000 financial advisors, providing instant access to a vast library of research reports and internal knowledge.",
+    "impact": "40% reduction in time spent searching for information",
+    "metrics": {
+      "timeReduced": "40%",
+      "advisorsEnabled": "16,000+",
+      "documentsIndexed": "100,000+"
+    },
+    "tags": ["LLM", "Enterprise", "Productivity"],
+    "year": 2023,
+    "logoInitial": "MS"
+  },
+  {
+    "id": "2",
+    "company": "Klarna",
+    "country": "Sweden",
+    "industry": "Fintech",
+    "title": "AI Customer Service Agent Replacing 700 Employees",
+    "summary": "Klarna's AI assistant handles two-thirds of all customer service chats, performing the equivalent work of 700 full-time agents with greater accuracy and customer satisfaction.",
+    "impact": "Equivalent of 700 FTE agents, $40M annual profit improvement",
+    "metrics": {
+      "chatsHandled": "66%",
+      "profitImprovement": "$40M",
+      "resolutionTime": "-82%"
+    },
+    "tags": ["Customer Service", "Automation", "Cost Reduction"],
+    "year": 2024,
+    "logoInitial": "KL"
+  },
+  {
+    "id": "3",
+    "company": "GitHub",
+    "country": "USA",
+    "industry": "Developer Tools",
+    "title": "Copilot Accelerates Developer Velocity",
+    "summary": "GitHub Copilot has been adopted by over 1.8 million developers, demonstrably increasing code output and reducing the time spent on repetitive coding tasks.",
+    "impact": "55% faster task completion for developers",
+    "metrics": {
+      "fasterCompletion": "55%",
+      "developers": "1.8M+",
+      "codeAccepted": "46%"
+    },
+    "tags": ["Code Generation", "Developer Tools", "Productivity"],
+    "year": 2023,
+    "logoInitial": "GH"
+  },
+  {
+    "id": "4",
+    "company": "Moderna",
+    "country": "USA",
+    "industry": "Biotech",
+    "title": "AI-Accelerated mRNA Drug Development",
+    "summary": "Moderna uses AI across its entire drug development pipeline, from molecule design to clinical trials, drastically reducing the time to bring new therapies to market.",
+    "impact": "Up to 8x faster candidate selection",
+    "metrics": {
+      "pipelineAcceleration": "8x",
+      "aiModelsDeployed": "750+",
+      "yearsSaved": "~4 years"
+    },
+    "tags": ["Drug Discovery", "Healthcare", "R&D"],
+    "year": 2024,
+    "logoInitial": "MO"
+  },
+  {
+    "id": "5",
+    "company": "Duolingo",
+    "country": "USA",
+    "industry": "EdTech",
+    "title": "GPT-4 Powered Language Tutoring",
+    "summary": "Duolingo Max uses GPT-4 to offer roleplay conversations and explain mistakes in context, creating a personalized language learning experience previously only possible with a human tutor.",
+    "impact": "3x increase in user engagement for premium subscribers",
+    "metrics": {
+      "engagementIncrease": "3x",
+      "languagesSupported": "40+",
+      "dailyActiveUsers": "74M"
+    },
+    "tags": ["EdTech", "Personalization", "GPT-4"],
+    "year": 2023,
+    "logoInitial": "DL"
+  },
+  {
+    "id": "6",
+    "company": "Walmart",
+    "country": "USA",
+    "industry": "Retail",
+    "title": "AI-Driven Supply Chain Optimization",
+    "summary": "Walmart deployed AI models to optimize inventory allocation across 10,500+ stores, predicting demand fluctuations and automating replenishment orders with unprecedented accuracy.",
+    "impact": "15% reduction in out-of-stock incidents",
+    "metrics": {
+      "stockReduction": "15%",
+      "storesOptimized": "10,500+",
+      "costSavings": "$200M+"
+    },
+    "tags": ["Supply Chain", "Retail", "Demand Forecasting"],
+    "year": 2024,
+    "logoInitial": "WM"
+  }
+]
